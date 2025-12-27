@@ -6,12 +6,12 @@
     font-display: swap; 
 }
 body {
-    font-family: 'mlmfont', sans-serif;
+    font-family: 'mlmfont', tahoma;
     -moz-font-feature-settings: "ss03";
     -webkit-font-feature-settings: "ss03";
     font-feature-settings: "ss03";
 }
 input, textarea, button, select {
-    font-family: 'mlmfont', sans-serif;
+    font-family: 'mlmfont', tahoma;
     font-feature-settings: "ss03";
 }
