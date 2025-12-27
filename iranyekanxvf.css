@@ -7,11 +7,11 @@
 }
 body {
     font-family: 'mlmfont', tahoma;
-    -moz-font-feature-settings: "ss03";
-    -webkit-font-feature-settings: "ss03";
-    font-feature-settings: "ss03";
+    -moz-font-feature-settings: "ss02";
+    -webkit-font-feature-settings: "ss02";
+    font-feature-settings: "ss02";
 }
 input, textarea, button, select {
     font-family: 'mlmfont', tahoma;
-    font-feature-settings: "ss03";
+    font-feature-settings: "ss02";
 }
