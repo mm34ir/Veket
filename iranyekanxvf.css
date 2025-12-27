@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'mlmfont';
+    font-style: normal;
+    /* نکته مهم: تعریف بازه وزن‌ها برای فونت متغیر */
+    font-weight: 100 900; 
+    
+    /* اولویت با woff2 است، سپس woff */
+    src: url('fonts/IRANYekanXVF/IRANYekanXVF.woff2') format('woff2'),
+         url('fonts/IRANYekanXVF/IRANYekanXVF.woff') format('woff');
+         
+    /* برای بهبود تجربه کاربری و سئو */
+    font-display: swap; 
+}
