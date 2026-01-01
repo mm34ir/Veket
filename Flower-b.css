@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Flower-B';
+    font-style: normal;
+    font-weight: 100 900; 
+    src: url('fonts/Flower-B/Flower B old.woff2') format('woff');
+    font-display: swap; 
+}
